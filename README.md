@@ -12,7 +12,7 @@ Live demo is available here: https://one-chat.online
 ## Features
 
 - Real-time messaging
-- Video call 1:1
+- Video and audio call 1:1
 - User authentication
 - User profile
 - Group discussion
