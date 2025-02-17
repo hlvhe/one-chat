@@ -16,6 +16,7 @@ Live demo is available here: https://one-chat.online
 - User authentication
 - User profile
 - Group discussion
+- Group video call
 
 ## Technologies
 
@@ -25,4 +26,4 @@ Live demo is available here: https://one-chat.online
 - Node.JS, Express
 - MongoDB, Mongoose
 - Jest, Playwright
-- Docker
+- Docker, Jitsi
