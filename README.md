@@ -16,7 +16,8 @@ Live demo is available here: https://one-chat.online
 - User authentication
 - User profile
 - Group discussion
-- Group video call
+- Group video and audio call
+    - Collaborative whiteboard
 
 ## Technologies
 
