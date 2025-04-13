@@ -7,7 +7,7 @@ Some features are already implemented, with more to come.
 
 ## Live Demo
 
-Live demo is available here: https://one-chat.online
+Live demo is available here: https://one-chat.eu
 
 ## Features
 
