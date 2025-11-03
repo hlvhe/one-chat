@@ -18,6 +18,7 @@ Live demo is available here: https://one-chat.eu
 - Group discussion
 - Group video and audio call
     - Collaborative whiteboard
+    - Recording
 
 ## Technologies
 
