@@ -1,31 +1,25 @@
-# OneChat
+WebRTC collaboration platform.
 
-OneChat is a chat application for real-time text messaging and video calls.  
-The project is currently active and is made for learning purposes in full-stack development.
+**Live:** https://one-chat.eu
 
-Some features are already implemented, with more to come.
+## Architecture
 
-## Live Demo
+![architecture diagram](./architecture.svg)
 
-Live demo is available here: https://one-chat.eu
+## Also includes
 
-## Features
+- Conversations
+- Video and audio calls
+- Collaborative whiteboard
+- User accounts and profiles
+- Call recording
 
-- Real-time messaging
-- Video and audio call 1:1
-- User authentication
-- User profile
-- Group discussion
-- Group video and audio call
-    - Collaborative whiteboard
-    - Recording
+## Tech
 
-## Technologies
-
-- JavaScript, TypeScript
-- React, Redux
-- WebRTC, Socket.IO
-- Node.JS, Express
-- MongoDB, Mongoose
-- Jest, Playwright
-- Docker, Jitsi
+- **Frontend:** React, Redux, TypeScript
+- **Backend:** Node.js, Express
+- **Real-time / media:** WebRTC, Socket.IO, Jitsi, Excalidraw
+- **Data:** MongoDB, Redis
+- **DevOps:** Docker, Nginx, GitHub Actions
+- **Observability:** OpenTelemetry, Prometheus, Grafana
+- **Testing:** Jest, Playwright
