@@ -19,7 +19,7 @@ WebRTC collaboration platform.
 
 - **Frontend:** React, Redux, TypeScript
 - **Backend:** Node.js, Express, Go
-- **Real-time / media:** WebRTC, Socket.IO, Jitsi, Excalidraw, Deepgram
+- **Real-time / media:** WebRTC, WebSocket, Socket.IO, Jitsi, Excalidraw, Deepgram
 - **Data:** MongoDB, Redis
 - **DevOps:** Docker, Nginx, GitHub Actions
 - **Observability:** OpenTelemetry, Prometheus, Grafana
