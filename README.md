@@ -22,5 +22,5 @@ WebRTC collaboration platform.
 - **Real-time / media:** WebRTC, WebSocket, Socket.IO, Jitsi, Excalidraw, Deepgram
 - **Data:** MongoDB, Redis
 - **DevOps:** Docker, Nginx, GitHub Actions
-- **Observability:** OpenTelemetry, Prometheus, Grafana
+- **Observability:** OpenTelemetry, Prometheus, Grafana, Sentry
 - **Testing:** Jest, Playwright
