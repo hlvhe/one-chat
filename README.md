@@ -18,7 +18,7 @@ WebRTC collaboration platform.
 ## Tech
 
 - **Frontend:** React, Redux, TypeScript
-- **Backend:** Node.js, Express, Go
+- **Backend:** Node.js, Express, Go, NATS JetStream
 - **Real-time / media:** WebRTC, WebSocket, Socket.IO, Jitsi, Excalidraw, Deepgram
 - **Data:** MongoDB, Redis
 - **DevOps:** Docker, Nginx, GitHub Actions
