@@ -23,4 +23,4 @@ WebRTC collaboration platform.
 - **Data:** MongoDB, Redis
 - **DevOps:** Docker, Nginx, GitHub Actions
 - **Observability:** OpenTelemetry, Prometheus, Grafana, Sentry
-- **Testing:** Jest, Playwright
+- **Testing:** Vitest, Jest, Playwright
